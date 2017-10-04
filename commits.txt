@@ -1,0 +1,35 @@
+commit 591fdc4e5a91ea1670598c172e3a52da7f034970
+Author: Ricardo Garrido <ricgarridoc@hotmail.com>
+Date:   Tue Oct 3 02:00:50 2017 -0500
+
+    commmit para referenciar al issue #4
+
+commit b9ede7809f13f372b82af9bf25eb2572cbd9ba82
+Author: Ricardo Garrido <ricgarridoc@hotmail.com>
+Date:   Sat Sep 30 20:29:35 2017 -0500
+
+    Se hizo un git merge en esta rama de la rama experimento1 y despues se agrego texto
+
+commit 03831165d118e5bf1764e07a531897ddaf48ecc6
+Author: Ricardo Garrido <ricgarridoc@hotmail.com>
+Date:   Sat Sep 30 20:25:36 2017 -0500
+
+    se agrego una etiqueta h4
+
+commit 78418d2a7414990812e53da821176fd3e163ea7e
+Author: Ricardo Garrido <ricgarridoc@hotmail.com>
+Date:   Sat Sep 30 20:22:44 2017 -0500
+
+    Se agrego una etiqueta h3
+
+commit 70bd76fcead0b955d3b55cce13eef22b97480ad2
+Author: Ricardo Garrido <ricgarridoc@hotmail.com>
+Date:   Sat Sep 30 20:20:07 2017 -0500
+
+    gregue una etiqueta h2
+
+commit de7034b871e31dce9d447699137f1f44030962f3
+Author: Ricardo Garrido <ricgarridoc@hotmail.com>
+Date:   Sat Sep 30 20:03:26 2017 -0500
+
+    Here, i'll add all my future exercises but use in other projects
