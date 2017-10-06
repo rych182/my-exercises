@@ -1,8 +1,12 @@
-commit 2d74896645b2795f8fd5498c9fc8ddecdc14feeb
+﻿commit 2d74896645b2795f8fd5498c9fc8ddecdc14feeb
+
 Author: Ricardo Garrido <ricgarridoc@hotmail.com>
+
 Date:   Thu Oct 5 20:17:32 2017 -0500
 
     solo puse una linea, quiero subir una modificacion en mi rama, pero cambiandome a master y que se suba a otra rama de github
+
+
 
 commit 47fd0d95d5a99271fd6f868225c133a46398bdc5
 Author: Ricardo Garrido <ricgarridoc@hotmail.com>
@@ -10,11 +14,15 @@ Date:   Thu Oct 5 20:10:04 2017 -0500
 
     Intento de subir una rama local a github y que me aparezca la rama en github
 
+
+
 commit f1f0407ff691f60c7468359066a38b1d065a3791
 Author: Ricardo Garrido <ricgarridoc@hotmail.com>
 Date:   Thu Oct 5 19:57:36 2017 -0500
 
     Esta es una modificación para ver si puedo subir mi rama local a github
+
+
 
 commit 5568bf323255aadfd9c6bfe6d479019a0cbe885e
 Merge: 06c823f 946da40
@@ -23,11 +31,15 @@ Date:   Thu Oct 5 19:54:46 2017 -0500
 
     Ya arregle mi pull
 
+
+
 commit 06c823f606b70dbfe7f682549708aa5209036e8d
 Author: Ricardo Garrido <ricgarridoc@hotmail.com>
 Date:   Thu Oct 5 19:51:34 2017 -0500
 
     Esta modificación se hizo para que git me marque que hay actualizaciones en mi repositorio en github
+
+
 
 commit 946da4090486ab3d1e4ef770f003c22ddf11ebc1
 Author: Ricardo Garrido <ricgarridoc@hotmail.com>
@@ -37,11 +49,17 @@ Date:   Thu Oct 5 19:49:57 2017 -0500
     
     Solo agregué un h3
 
+
+
+
 commit 12faf3f1b3e6e0f43aeee964444fa6fdb0dab040
 Author: Ricardo Garrido <ricgarridoc@hotmail.com>
 Date:   Thu Oct 5 19:40:24 2017 -0500
 
     Haciendo un push a una rama que no es la master
+
+
+
 
 commit e3537559565a1c403e35f046d938fff20cfb4a50
 Author: Ricardo Garrido <ricgarridoc@hotmail.com>
@@ -49,11 +67,16 @@ Date:   Thu Oct 5 19:37:28 2017 -0500
 
     push desde una rama que no es master
 
+
+
+
 commit 644d7b85c6aba1c6cc7855a7e2e77f7d14514ecc
 Author: Ricardo Garrido <ricgarridoc@hotmail.com>
 Date:   Tue Oct 3 23:54:07 2017 -0500
 
     Use el las lineas de codigo git log > commits.txt para que me agregara un archivo con los commits que he hecho a lo largo de mi proyecto
+
+
 
 commit 591fdc4e5a91ea1670598c172e3a52da7f034970
 Author: Ricardo Garrido <ricgarridoc@hotmail.com>
@@ -61,11 +84,16 @@ Date:   Tue Oct 3 02:00:50 2017 -0500
 
     commmit para referenciar al issue #4
 
+
+
 commit b9ede7809f13f372b82af9bf25eb2572cbd9ba82
 Author: Ricardo Garrido <ricgarridoc@hotmail.com>
 Date:   Sat Sep 30 20:29:35 2017 -0500
 
     Se hizo un git merge en esta rama de la rama experimento1 y despues se agrego texto
+
+
+
 
 commit 03831165d118e5bf1764e07a531897ddaf48ecc6
 Author: Ricardo Garrido <ricgarridoc@hotmail.com>
@@ -73,17 +101,26 @@ Date:   Sat Sep 30 20:25:36 2017 -0500
 
     se agrego una etiqueta h4
 
+
+
+
 commit 78418d2a7414990812e53da821176fd3e163ea7e
 Author: Ricardo Garrido <ricgarridoc@hotmail.com>
 Date:   Sat Sep 30 20:22:44 2017 -0500
 
     Se agrego una etiqueta h3
 
+
+
+
 commit 70bd76fcead0b955d3b55cce13eef22b97480ad2
 Author: Ricardo Garrido <ricgarridoc@hotmail.com>
 Date:   Sat Sep 30 20:20:07 2017 -0500
 
     gregue una etiqueta h2
+
+
+
 
 commit de7034b871e31dce9d447699137f1f44030962f3
 Author: Ricardo Garrido <ricgarridoc@hotmail.com>
