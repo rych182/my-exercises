@@ -1,0 +1,9 @@
+Esta es una prueba para usar VIM
+
+Esta es una prueba donde utilizo el editor de terminal llamado VIM, para modificar archivos desde terminal.
+
+con ":wq" sirve para guardar y salir y ":q!" sirve para salir sin guardar.
+
+Antes de poner esos comandos debes presionar la tecla ESC.
+
+
